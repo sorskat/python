@@ -1,4 +1,4 @@
-print("Hello World!")
+print("Witaj Świecie!")
 for i in range(5):
     print(f"Odliczanie:",i)
 
